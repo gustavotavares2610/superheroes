@@ -1,0 +1,3 @@
+SELECT *
+FROM superhero
+WHERE publisher_id IN (1, 2, 3);
